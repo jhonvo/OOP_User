@@ -1,2 +1,4 @@
 # OOP_User
-Objectives: Practice creating a class and making instances from it Practice accessing the methods and attributes of different instances
+Objectives: <br>
+Practice creating a class and making instances from it <br>
+Practice accessing the methods and attributes of different instances
